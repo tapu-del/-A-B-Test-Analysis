@@ -21,4 +21,6 @@ Analyzed A/B test data to compare two versions (v1 and v2) based on click perfor
 - Conclusion: v1 performs better than v2
 
 ## Screenshot
-<img width="1246" height="530" alt="image" src="https://github.com/user-attachments/assets/259aba7c-9098-4e98-90c4-3abc2f2f2174" />
+
+<img width="1231" height="531" alt="image" src="https://github.com/user-attachments/assets/01c4dc8e-185d-4fb4-bff6-861981638c03" />
+
